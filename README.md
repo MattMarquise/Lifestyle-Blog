@@ -1,3 +1,2 @@
-# New-Website-Template
+# Lifestyle Blog Page
 
-test
