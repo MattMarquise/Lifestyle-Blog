@@ -1,5 +1,5 @@
 # Lifestyle Blog
-![Lifestyle Blog Shop Theme](https://github.com/MattMarquise/Lifestyle-Blog-Shop-Page/blob/main/lifestyleproduct.jpg)
+![Lifestyle Blog Shop Theme](https://github.com/MattMarquise/Lifestyle-Blog/blob/main/lifestyletheme.jpg)
 
 - HTML, CSS landing page.
 
