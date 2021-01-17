@@ -4,7 +4,7 @@
 - HTML, CSS landing page.
 
 ## View Demo:
-[Lifestyle Blog Shop Demo](https://matthewmarquise.com/lifestyleshop)
+[Lifestyle Blog Theme Demo](https://matthewmarquise.com/lifestyleblog)
 
 ### What does this template site include?
  - Strictly HTML & CSS
