@@ -13,3 +13,4 @@
  - Bootstrap 5
  - Custom CSS Stylesheet
  - Responsive Nav
+ - Responsive Card Layouts
